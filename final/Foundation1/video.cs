@@ -1,4 +1,4 @@
-class videos
+class Videos
 {
   public string tittle { get; set; }
   public string author { get; set; }

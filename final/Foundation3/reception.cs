@@ -1,4 +1,4 @@
-class receptions : events
+class Receptions : Events
 {
   public void title()
   {

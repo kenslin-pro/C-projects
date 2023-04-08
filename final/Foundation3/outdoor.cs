@@ -1,4 +1,4 @@
-class outdoor : events
+class Outdoor : Events
 {
   public void tittle()
   {

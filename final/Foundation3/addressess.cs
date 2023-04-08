@@ -1,4 +1,4 @@
-class addresses : events
+class Addresses 
 {
   public void address1()
   {

@@ -1,4 +1,4 @@
-class events
+class Events
 {
   public void welcome()
   {

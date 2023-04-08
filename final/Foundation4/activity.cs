@@ -1,4 +1,4 @@
-class activities
+class Activities
 {
   public virtual void workout()
   {

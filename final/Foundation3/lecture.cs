@@ -1,4 +1,4 @@
-class lecture : events
+class Lecture : Events
 {
 
   public void tittle()

@@ -1,10 +1,10 @@
-class address
+class Address
 {
   private string street { get; set; }
   private string city { get; set; }
   private string state { get; set; }
   private string country { get; set; }
-  public address(string streetaddress, string City, string State, string Country)
+  public Address(string streetaddress, string City, string State, string Country)
   {
     street = streetaddress;
     city = City;

@@ -1,4 +1,4 @@
-class order
+class Order
 
 {
   static void myItems(string name, string productid, int price, int quantity)
