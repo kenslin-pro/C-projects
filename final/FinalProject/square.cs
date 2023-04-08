@@ -1,5 +1,7 @@
 class Square : Rectangle
 {
-  public Square(double length) : base(length, length);
+  public Square(double length) : base(length, length)
+  {
 
+  }
 }

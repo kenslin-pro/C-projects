@@ -10,7 +10,7 @@ class Program
 
     Square square = new Square(5);
     Console.WriteLine(square.AreaOfRectangle());
-    Console.WriteLine(square.PerimeterOfRectangle);
+    Console.WriteLine(square.PerimeterOfRectangle());
 
     Circle circle = new Circle(14);
     Console.WriteLine(circle.AreaOfCircle());

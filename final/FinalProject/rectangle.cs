@@ -1,3 +1,4 @@
+
 class Rectangle
 {
   public double Length { get; set; }
