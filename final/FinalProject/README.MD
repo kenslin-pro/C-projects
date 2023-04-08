@@ -1,0 +1,1 @@
+This is one of the projects that I did in my python class. I have used it to calculate the area and perimeter of the rectangle,square and circle. I have applied the principle of abstraction, inheritance and encapsultion using examples from w3School https://www.w3schools.com/cs/cs_properties.php to calculate the area and perimeter.
